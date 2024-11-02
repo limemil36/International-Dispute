@@ -28,7 +28,7 @@ html ::-webkit-scrollbar-track{
 body{
     overflow: scroll;
     background-color: rgba(0, 0, 0, 0.97);
-    font-size: 5px;
+    font-size: 10px;
 }
 
 #menuCont{
